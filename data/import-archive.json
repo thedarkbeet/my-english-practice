@@ -1,0 +1,3951 @@
+{
+  "1": {
+    "prefilled": {},
+    "placeholderBlocks": []
+  },
+  "2": {
+    "prefilled": {},
+    "placeholderBlocks": []
+  },
+  "3": {
+    "prefilled": {},
+    "placeholderBlocks": []
+  },
+  "4": {
+    "prefilled": {},
+    "placeholderBlocks": []
+  },
+  "5": {
+    "prefilled": {},
+    "placeholderBlocks": []
+  },
+  "6": {
+    "prefilled": {
+      "C5": "What happened?",
+      "C6": "Who told you that?",
+      "C7": "What does it take to buy a house like this?",
+      "C8": "What makes you think like that?",
+      "C9": "Who built this monument?",
+      "C21": "He sold his car",
+      "C35": "The ideal way to relax for me is to go abroad",
+      "C135": "ллор",
+      "C136": "But then his wife came home",
+      "C137": "ооо"
+    },
+    "placeholderBlocks": []
+  },
+  "7": {
+    "prefilled": {},
+    "placeholderBlocks": []
+  },
+  "8": {
+    "prefilled": {},
+    "placeholderBlocks": []
+  },
+  "9": {
+    "prefilled": {
+      "C97": "I have work TO DO",
+      "C98": "There is nothing TO WORRY ABOUT",
+      "C99": "I need a couch TO SLEEP ON"
+    },
+    "placeholderBlocks": []
+  },
+  "10": {
+    "prefilled": {},
+    "placeholderBlocks": []
+  },
+  "11": {
+    "prefilled": {
+      "C7": "Did you start at 10?"
+    },
+    "placeholderBlocks": []
+  },
+  "12": {
+    "prefilled": {
+      "C5": "When do you get up?",
+      "C7": "Did you start at 10?"
+    },
+    "placeholderBlocks": []
+  },
+  "13": {
+    "prefilled": {},
+    "placeholderBlocks": []
+  },
+  "14": {
+    "prefilled": {
+      "C5": "I have eaten burgers all my life and I have never had problems",
+      "C6": "Where did you buy this jacket?",
+      "C7": "How many books have you read In the last 3 years?",
+      "C8": "British scientists have discovered a new way to teach English",
+      "C9": "I bought this camera from my friend",
+      "C10": "How long have you been sick?",
+      "C11": "How long did you stay in cold water?",
+      "C12": "It is a shame Masha did not show up for the date",
+      "C13": "Who ate my pizza?",
+      "C14": "What did she say?",
+      "C15": "It has been good so far",
+      "C16": "Have you seen this film?",
+      "C17": "I have learnt a lot since them as I graduated from the university",
+      "C18": "We have not had any problems with it so far",
+      "C19": "How much did you drink?",
+      "C20": "How many paintings have you seen in our gallery?",
+      "C21": "Have you been to that exhibition?",
+      "C22": "How many people did you invite?",
+      "C23": "How many exams have you had?",
+      "C24": "I worked in the U.S. , but then I moved to Russia",
+      "C25": "Have you ever been to Turkey? Did You like the sea?",
+      "C26": "I have bought a new car. Did they give you a discount?",
+      "C27": "We have not had a single accident in the last 5 years.",
+      "C28": "She has not told me the date yet",
+      "C29": "My town has changed a lot in the last few years",
+      "C30": "My town has changed a lot for the last few years",
+      "C31": "How has our life changed in the last 20 years?",
+      "C32": "Scientists have made so many discoveries in the last few years",
+      "C33": "I have been sick for the last few weeks"
+    },
+    "placeholderBlocks": []
+  },
+  "15": {
+    "prefilled": {},
+    "placeholderBlocks": []
+  },
+  "16": {
+    "prefilled": {
+      "C5": "When do you get up?",
+      "C6": "фф",
+      "C7": "Did you start at 10?",
+      "C21": "He sold his car"
+    },
+    "placeholderBlocks": []
+  },
+  "17": {
+    "prefilled": {
+      "C5": "When do you get up?",
+      "C6": "фф",
+      "C7": "Did you start at 10?",
+      "C21": "He sold his car"
+    },
+    "placeholderBlocks": []
+  },
+  "18": {
+    "prefilled": {
+      "C21": "He sold his car"
+    },
+    "placeholderBlocks": []
+  },
+  "19": {
+    "prefilled": {
+      "C21": "He sold his car"
+    },
+    "placeholderBlocks": []
+  },
+  "20": {
+    "prefilled": {
+      "C5": "When do you get up?",
+      "C6": "фф",
+      "C7": "Did you start at 10?",
+      "C21": "He sold his car"
+    },
+    "placeholderBlocks": []
+  },
+  "21": {
+    "prefilled": {
+      "C5": "When do you get up?",
+      "C6": "фф",
+      "C7": "Did you start at 10?",
+      "C21": "He sold his car"
+    },
+    "placeholderBlocks": []
+  },
+  "22": {
+    "prefilled": {
+      "C5": "When do you get up?",
+      "C6": "фф",
+      "C7": "Did you start at 10?",
+      "C21": "He sold his car"
+    },
+    "placeholderBlocks": []
+  },
+  "23": {
+    "prefilled": {
+      "C5": "When do you get up?",
+      "C6": "фф",
+      "C7": "Did you start at 10?",
+      "C21": "He sold his car"
+    },
+    "placeholderBlocks": [
+      {
+        "id": "hw23-33eb9a4cda15",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ4",
+        "row": 4
+      },
+      {
+        "id": "hw23-ea916f1710a0",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ5",
+        "row": 5
+      },
+      {
+        "id": "hw23-993eae1a8305",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ6",
+        "row": 6
+      },
+      {
+        "id": "hw23-d84fb35a776c",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ7",
+        "row": 7
+      },
+      {
+        "id": "hw23-d088fe212d99",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ8",
+        "row": 8
+      },
+      {
+        "id": "hw23-4b7e60ed3c67",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ9",
+        "row": 9
+      },
+      {
+        "id": "hw23-d307065475cc",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ10",
+        "row": 10
+      },
+      {
+        "id": "hw23-aea4b633ab54",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ11",
+        "row": 11
+      },
+      {
+        "id": "hw23-2fd4d5d118c5",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ12",
+        "row": 12
+      },
+      {
+        "id": "hw23-fa4fd9e27179",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ13",
+        "row": 13
+      },
+      {
+        "id": "hw23-e7c12cf83470",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ14",
+        "row": 14
+      },
+      {
+        "id": "hw23-e2c26ea2ae3e",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ15",
+        "row": 15
+      },
+      {
+        "id": "hw23-988772f2953e",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ16",
+        "row": 16
+      },
+      {
+        "id": "hw23-9f0aa786f6c1",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ17",
+        "row": 17
+      },
+      {
+        "id": "hw23-bb19328867f5",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ18",
+        "row": 18
+      },
+      {
+        "id": "hw23-f92cc3ad84ae",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ19",
+        "row": 19
+      },
+      {
+        "id": "hw23-b90c445d9347",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ20",
+        "row": 20
+      },
+      {
+        "id": "hw23-bd93a804cca0",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ21",
+        "row": 21
+      },
+      {
+        "id": "hw23-c5b6df6dc299",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BQ22",
+        "row": 22
+      }
+    ]
+  },
+  "24": {
+    "prefilled": {
+      "C5": "When do you get up?",
+      "C6": "фф",
+      "C7": "Did you start at 10?",
+      "C21": "He sold his car"
+    },
+    "placeholderBlocks": [
+      {
+        "id": "hw24-485c1fc486fb",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT4",
+        "row": 4
+      },
+      {
+        "id": "hw24-7052170dacb8",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT5",
+        "row": 5
+      },
+      {
+        "id": "hw24-e5ef71e305e6",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT6",
+        "row": 6
+      },
+      {
+        "id": "hw24-9a9572741ed3",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT7",
+        "row": 7
+      },
+      {
+        "id": "hw24-d58d6115e89e",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT8",
+        "row": 8
+      },
+      {
+        "id": "hw24-a1cc9fb1fcc3",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT9",
+        "row": 9
+      },
+      {
+        "id": "hw24-e63816195f7a",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT10",
+        "row": 10
+      },
+      {
+        "id": "hw24-f860cac67a3c",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT11",
+        "row": 11
+      },
+      {
+        "id": "hw24-8d8cf9b65964",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT12",
+        "row": 12
+      },
+      {
+        "id": "hw24-20dead36e603",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT13",
+        "row": 13
+      },
+      {
+        "id": "hw24-f39a5daba2f5",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT14",
+        "row": 14
+      },
+      {
+        "id": "hw24-285c2fc7bfa9",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT15",
+        "row": 15
+      },
+      {
+        "id": "hw24-ae83a4db28f0",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT16",
+        "row": 16
+      },
+      {
+        "id": "hw24-fffda6d0c4a1",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT17",
+        "row": 17
+      },
+      {
+        "id": "hw24-cc6eef6188a0",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT18",
+        "row": 18
+      },
+      {
+        "id": "hw24-826bf7a388ad",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT19",
+        "row": 19
+      },
+      {
+        "id": "hw24-9f16205d061a",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT20",
+        "row": 20
+      },
+      {
+        "id": "hw24-273bf5948327",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT21",
+        "row": 21
+      },
+      {
+        "id": "hw24-4ec1961eb57a",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BT22",
+        "row": 22
+      }
+    ]
+  },
+  "25": {
+    "prefilled": {
+      "C5": "When do you get up?",
+      "C6": "фф",
+      "C7": "Did you start at 10?",
+      "C21": "He sold his car"
+    },
+    "placeholderBlocks": [
+      {
+        "id": "hw25-88a46a935e29",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW4",
+        "row": 4
+      },
+      {
+        "id": "hw25-4fd04e45989d",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW5",
+        "row": 5
+      },
+      {
+        "id": "hw25-63758653eb05",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW6",
+        "row": 6
+      },
+      {
+        "id": "hw25-981cf69993ca",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW7",
+        "row": 7
+      },
+      {
+        "id": "hw25-0a38eae89dd5",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW8",
+        "row": 8
+      },
+      {
+        "id": "hw25-b3821b3f5751",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW9",
+        "row": 9
+      },
+      {
+        "id": "hw25-7dee7f657ddb",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW10",
+        "row": 10
+      },
+      {
+        "id": "hw25-ab49934d8a73",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW11",
+        "row": 11
+      },
+      {
+        "id": "hw25-8865709ace66",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW12",
+        "row": 12
+      },
+      {
+        "id": "hw25-b177cea63344",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW13",
+        "row": 13
+      },
+      {
+        "id": "hw25-8393b65ee974",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW14",
+        "row": 14
+      },
+      {
+        "id": "hw25-6e0843af90a6",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW15",
+        "row": 15
+      },
+      {
+        "id": "hw25-bfe95cf5996b",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW16",
+        "row": 16
+      },
+      {
+        "id": "hw25-936248f1edcd",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW17",
+        "row": 17
+      },
+      {
+        "id": "hw25-133702719e73",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW18",
+        "row": 18
+      },
+      {
+        "id": "hw25-39c975cf366f",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW19",
+        "row": 19
+      },
+      {
+        "id": "hw25-c36c586a2119",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW20",
+        "row": 20
+      },
+      {
+        "id": "hw25-c243df2d07c2",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW21",
+        "row": 21
+      },
+      {
+        "id": "hw25-5cb4e2dbbac2",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BW22",
+        "row": 22
+      }
+    ]
+  },
+  "26": {
+    "prefilled": {
+      "C5": "When do you get up?",
+      "C6": "фф",
+      "C7": "Did you start at 10?",
+      "C21": "He sold his car"
+    },
+    "placeholderBlocks": [
+      {
+        "id": "hw26-7e106c178cf2",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ4",
+        "row": 4
+      },
+      {
+        "id": "hw26-e3bcba71002f",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ5",
+        "row": 5
+      },
+      {
+        "id": "hw26-fb1d8ce60868",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ6",
+        "row": 6
+      },
+      {
+        "id": "hw26-ba243033c2e6",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ7",
+        "row": 7
+      },
+      {
+        "id": "hw26-8b68deb5b572",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ8",
+        "row": 8
+      },
+      {
+        "id": "hw26-239061f5d3f8",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ9",
+        "row": 9
+      },
+      {
+        "id": "hw26-5044597faed8",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ10",
+        "row": 10
+      },
+      {
+        "id": "hw26-4f9561c3f96d",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ11",
+        "row": 11
+      },
+      {
+        "id": "hw26-01e3f3737800",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ12",
+        "row": 12
+      },
+      {
+        "id": "hw26-054de54dd3fa",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ13",
+        "row": 13
+      },
+      {
+        "id": "hw26-0f5c321c62c3",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ14",
+        "row": 14
+      },
+      {
+        "id": "hw26-8d92a0410c54",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ15",
+        "row": 15
+      },
+      {
+        "id": "hw26-4177e29f6b07",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ16",
+        "row": 16
+      },
+      {
+        "id": "hw26-7b95bb70c2dc",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ17",
+        "row": 17
+      },
+      {
+        "id": "hw26-81cd9f8fb57e",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ18",
+        "row": 18
+      },
+      {
+        "id": "hw26-369023e9857b",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ19",
+        "row": 19
+      },
+      {
+        "id": "hw26-72e3a6f884fd",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ20",
+        "row": 20
+      },
+      {
+        "id": "hw26-41230d0e6338",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ21",
+        "row": 21
+      },
+      {
+        "id": "hw26-9583e8f73270",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!BZ22",
+        "row": 22
+      }
+    ]
+  },
+  "27": {
+    "prefilled": {
+      "C5": "When do you get up?",
+      "C6": "фф",
+      "C7": "Did you start at 10?",
+      "C21": "He sold his car"
+    },
+    "placeholderBlocks": [
+      {
+        "id": "hw27-e0be86e65d2d",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC4",
+        "row": 4
+      },
+      {
+        "id": "hw27-8ec4a03d9eb9",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC5",
+        "row": 5
+      },
+      {
+        "id": "hw27-d02e3787f9cf",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC6",
+        "row": 6
+      },
+      {
+        "id": "hw27-84b5f2543222",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC7",
+        "row": 7
+      },
+      {
+        "id": "hw27-7d9b5bff1456",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC8",
+        "row": 8
+      },
+      {
+        "id": "hw27-fb445461bb3a",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC9",
+        "row": 9
+      },
+      {
+        "id": "hw27-5bd05dbd7bf0",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC10",
+        "row": 10
+      },
+      {
+        "id": "hw27-d683ea01df14",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC11",
+        "row": 11
+      },
+      {
+        "id": "hw27-e2cdee78383e",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC12",
+        "row": 12
+      },
+      {
+        "id": "hw27-6c76ac3dd5db",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC13",
+        "row": 13
+      },
+      {
+        "id": "hw27-a571ad7f3007",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC14",
+        "row": 14
+      },
+      {
+        "id": "hw27-75daa5bca114",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC15",
+        "row": 15
+      },
+      {
+        "id": "hw27-2d1b0e0d574d",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC16",
+        "row": 16
+      },
+      {
+        "id": "hw27-67a36483c254",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC17",
+        "row": 17
+      },
+      {
+        "id": "hw27-470557d2da5a",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC18",
+        "row": 18
+      },
+      {
+        "id": "hw27-45a2c5321579",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC19",
+        "row": 19
+      },
+      {
+        "id": "hw27-1a5bf7c351c7",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC20",
+        "row": 20
+      },
+      {
+        "id": "hw27-3eb7705e57f5",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC21",
+        "row": 21
+      },
+      {
+        "id": "hw27-f3d4b204c999",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CC22",
+        "row": 22
+      }
+    ]
+  },
+  "28": {
+    "prefilled": {
+      "C5": "When do you get up?",
+      "C6": "фф",
+      "C7": "Did you start at 10?",
+      "C18": "Уже давно)",
+      "C21": "He sold his car"
+    },
+    "placeholderBlocks": [
+      {
+        "id": "hw28-9ced92ab068e",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF4",
+        "row": 4
+      },
+      {
+        "id": "hw28-0d02d560f590",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF5",
+        "row": 5
+      },
+      {
+        "id": "hw28-cae4e83b2ef6",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF6",
+        "row": 6
+      },
+      {
+        "id": "hw28-2bcace055693",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF7",
+        "row": 7
+      },
+      {
+        "id": "hw28-789c3aa75438",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF8",
+        "row": 8
+      },
+      {
+        "id": "hw28-0a77774beff6",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF9",
+        "row": 9
+      },
+      {
+        "id": "hw28-76853bd79e5c",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF10",
+        "row": 10
+      },
+      {
+        "id": "hw28-f5a91d9ec7c6",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF11",
+        "row": 11
+      },
+      {
+        "id": "hw28-82a3a5f8ff3a",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF12",
+        "row": 12
+      },
+      {
+        "id": "hw28-05a952081439",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF13",
+        "row": 13
+      },
+      {
+        "id": "hw28-7b85a45b4e6e",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF14",
+        "row": 14
+      },
+      {
+        "id": "hw28-85d64b5fdb01",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF15",
+        "row": 15
+      },
+      {
+        "id": "hw28-2ad559257f9a",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF16",
+        "row": 16
+      },
+      {
+        "id": "hw28-4625e074a016",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF17",
+        "row": 17
+      },
+      {
+        "id": "hw28-7b2f6f653f7f",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF18",
+        "row": 18
+      },
+      {
+        "id": "hw28-76610ec38858",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF19",
+        "row": 19
+      },
+      {
+        "id": "hw28-d065472b0b31",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF20",
+        "row": 20
+      },
+      {
+        "id": "hw28-c1626ed0a6ef",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF21",
+        "row": 21
+      },
+      {
+        "id": "hw28-5cbfea393e1a",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF22",
+        "row": 22
+      },
+      {
+        "id": "hw28-5f2588fd8837",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF23",
+        "row": 23
+      },
+      {
+        "id": "hw28-3647670d03a3",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF24",
+        "row": 24
+      },
+      {
+        "id": "hw28-424af8127dfd",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF25",
+        "row": 25
+      },
+      {
+        "id": "hw28-aeac82a494c2",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF26",
+        "row": 26
+      },
+      {
+        "id": "hw28-b338a79c1e86",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF27",
+        "row": 27
+      },
+      {
+        "id": "hw28-302acbbefa56",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF28",
+        "row": 28
+      },
+      {
+        "id": "hw28-95d42e05068f",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF29",
+        "row": 29
+      },
+      {
+        "id": "hw28-f5e7ef2dfd50",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF30",
+        "row": 30
+      },
+      {
+        "id": "hw28-a929af5d001f",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF31",
+        "row": 31
+      },
+      {
+        "id": "hw28-4038c62f30d0",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF32",
+        "row": 32
+      },
+      {
+        "id": "hw28-7731a9f0ea24",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF33",
+        "row": 33
+      },
+      {
+        "id": "hw28-a76dc707400c",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF34",
+        "row": 34
+      },
+      {
+        "id": "hw28-ae12476902aa",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF35",
+        "row": 35
+      },
+      {
+        "id": "hw28-d50fbccac820",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF36",
+        "row": 36
+      },
+      {
+        "id": "hw28-fdc0c083b744",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF37",
+        "row": 37
+      },
+      {
+        "id": "hw28-1b0c10a7fd80",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF38",
+        "row": 38
+      },
+      {
+        "id": "hw28-f2d3a338e0d2",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF39",
+        "row": 39
+      },
+      {
+        "id": "hw28-75eb833b7730",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF40",
+        "row": 40
+      },
+      {
+        "id": "hw28-6f2ff0b0913b",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF41",
+        "row": 41
+      },
+      {
+        "id": "hw28-6d9248cf95b0",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF42",
+        "row": 42
+      },
+      {
+        "id": "hw28-3d447803517f",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF43",
+        "row": 43
+      },
+      {
+        "id": "hw28-371ef6e9c5e6",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF44",
+        "row": 44
+      },
+      {
+        "id": "hw28-705f01d8b207",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF45",
+        "row": 45
+      },
+      {
+        "id": "hw28-2e539240af89",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF46",
+        "row": 46
+      },
+      {
+        "id": "hw28-27d7a59ac1cb",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF47",
+        "row": 47
+      },
+      {
+        "id": "hw28-00f67fc6b01f",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF48",
+        "row": 48
+      },
+      {
+        "id": "hw28-ce9ccdf17e0e",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF49",
+        "row": 49
+      },
+      {
+        "id": "hw28-2c305b1bc01b",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF50",
+        "row": 50
+      },
+      {
+        "id": "hw28-7178f524a703",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF51",
+        "row": 51
+      },
+      {
+        "id": "hw28-2f2788b53d8a",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF52",
+        "row": 52
+      },
+      {
+        "id": "hw28-9acfb26d1754",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF53",
+        "row": 53
+      },
+      {
+        "id": "hw28-2de920a3d097",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF54",
+        "row": 54
+      },
+      {
+        "id": "hw28-6a798d90db3a",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF55",
+        "row": 55
+      },
+      {
+        "id": "hw28-e05b9111285f",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF56",
+        "row": 56
+      },
+      {
+        "id": "hw28-2252bb90a144",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF57",
+        "row": 57
+      },
+      {
+        "id": "hw28-79c1ee5053a2",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF58",
+        "row": 58
+      },
+      {
+        "id": "hw28-0610670d7ede",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF59",
+        "row": 59
+      },
+      {
+        "id": "hw28-f7f4ce9c5e6c",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF60",
+        "row": 60
+      },
+      {
+        "id": "hw28-a0f6e1fdd72a",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF61",
+        "row": 61
+      },
+      {
+        "id": "hw28-fa7e7f46f2be",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF62",
+        "row": 62
+      },
+      {
+        "id": "hw28-67f6021b79b4",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF63",
+        "row": 63
+      },
+      {
+        "id": "hw28-7eb879a2ad9e",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF64",
+        "row": 64
+      },
+      {
+        "id": "hw28-70875d087873",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF65",
+        "row": 65
+      },
+      {
+        "id": "hw28-97ce35d24252",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF66",
+        "row": 66
+      },
+      {
+        "id": "hw28-cf6a9cafc364",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF67",
+        "row": 67
+      },
+      {
+        "id": "hw28-b08358827fad",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF68",
+        "row": 68
+      },
+      {
+        "id": "hw28-b6710fbd1338",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF69",
+        "row": 69
+      },
+      {
+        "id": "hw28-8f8105839980",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF70",
+        "row": 70
+      },
+      {
+        "id": "hw28-7621639ec346",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF71",
+        "row": 71
+      },
+      {
+        "id": "hw28-6b93a4ab932c",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF72",
+        "row": 72
+      },
+      {
+        "id": "hw28-e96516b87f9d",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF73",
+        "row": 73
+      },
+      {
+        "id": "hw28-857b0c21de75",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF74",
+        "row": 74
+      },
+      {
+        "id": "hw28-003f41744861",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF75",
+        "row": 75
+      },
+      {
+        "id": "hw28-54a7070bfa5c",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF76",
+        "row": 76
+      },
+      {
+        "id": "hw28-9078e5d575cc",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF77",
+        "row": 77
+      },
+      {
+        "id": "hw28-fb29b313646f",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF78",
+        "row": 78
+      },
+      {
+        "id": "hw28-260622e21505",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF79",
+        "row": 79
+      },
+      {
+        "id": "hw28-03856f97a472",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF80",
+        "row": 80
+      },
+      {
+        "id": "hw28-8f11dd1c1b4b",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF81",
+        "row": 81
+      },
+      {
+        "id": "hw28-5fb48769351d",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF82",
+        "row": 82
+      },
+      {
+        "id": "hw28-c58025df0a3d",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF83",
+        "row": 83
+      },
+      {
+        "id": "hw28-67b98a967859",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF84",
+        "row": 84
+      },
+      {
+        "id": "hw28-750a23b38994",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF85",
+        "row": 85
+      },
+      {
+        "id": "hw28-bb1434bc9c07",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF86",
+        "row": 86
+      },
+      {
+        "id": "hw28-9efd58725e28",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF87",
+        "row": 87
+      },
+      {
+        "id": "hw28-1ca32e8e28d0",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF88",
+        "row": 88
+      },
+      {
+        "id": "hw28-74d825250031",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF89",
+        "row": 89
+      },
+      {
+        "id": "hw28-4249e1aca6c0",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF90",
+        "row": 90
+      },
+      {
+        "id": "hw28-4ec9ae303a7b",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF91",
+        "row": 91
+      },
+      {
+        "id": "hw28-79840d5a2faf",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF92",
+        "row": 92
+      },
+      {
+        "id": "hw28-1bfe4f79f1ec",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF93",
+        "row": 93
+      },
+      {
+        "id": "hw28-cb721fc912ee",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF94",
+        "row": 94
+      },
+      {
+        "id": "hw28-ebe575b79cbc",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF95",
+        "row": 95
+      },
+      {
+        "id": "hw28-0440a7d13d65",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF96",
+        "row": 96
+      },
+      {
+        "id": "hw28-975edf7e06e5",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF97",
+        "row": 97
+      },
+      {
+        "id": "hw28-f9d66c17a87f",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF98",
+        "row": 98
+      },
+      {
+        "id": "hw28-d77dd7492dbc",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF99",
+        "row": 99
+      },
+      {
+        "id": "hw28-0e911cd4b1ee",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF100",
+        "row": 100
+      },
+      {
+        "id": "hw28-2199fa1c80ea",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF101",
+        "row": 101
+      },
+      {
+        "id": "hw28-feb88582f964",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF102",
+        "row": 102
+      },
+      {
+        "id": "hw28-e1c4fd24841e",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF103",
+        "row": 103
+      },
+      {
+        "id": "hw28-26d158ef8a5e",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF104",
+        "row": 104
+      },
+      {
+        "id": "hw28-32a2231483d1",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF105",
+        "row": 105
+      },
+      {
+        "id": "hw28-bf91b50ae683",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF106",
+        "row": 106
+      },
+      {
+        "id": "hw28-6b2ed1917c6a",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF107",
+        "row": 107
+      },
+      {
+        "id": "hw28-162026748198",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF108",
+        "row": 108
+      },
+      {
+        "id": "hw28-ff84172d932f",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF109",
+        "row": 109
+      },
+      {
+        "id": "hw28-640f9ac418ae",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF110",
+        "row": 110
+      },
+      {
+        "id": "hw28-fa349cf4bbcd",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF111",
+        "row": 111
+      },
+      {
+        "id": "hw28-21ccb7b732eb",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF112",
+        "row": 112
+      },
+      {
+        "id": "hw28-a28983fe3e7e",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF113",
+        "row": 113
+      },
+      {
+        "id": "hw28-bfe639d1038d",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF114",
+        "row": 114
+      },
+      {
+        "id": "hw28-b3b00c9f0dcf",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF115",
+        "row": 115
+      },
+      {
+        "id": "hw28-1b736311fe87",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF116",
+        "row": 116
+      },
+      {
+        "id": "hw28-caa6ac85def6",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF117",
+        "row": 117
+      },
+      {
+        "id": "hw28-565fd458519c",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF118",
+        "row": 118
+      },
+      {
+        "id": "hw28-29c0f0fdcc8f",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF119",
+        "row": 119
+      },
+      {
+        "id": "hw28-d7f8b3813748",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF120",
+        "row": 120
+      },
+      {
+        "id": "hw28-4061ef7d71a5",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF121",
+        "row": 121
+      },
+      {
+        "id": "hw28-69a9e708f76f",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF122",
+        "row": 122
+      },
+      {
+        "id": "hw28-95cea31156aa",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF123",
+        "row": 123
+      },
+      {
+        "id": "hw28-6d9c4e186ea3",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF124",
+        "row": 124
+      },
+      {
+        "id": "hw28-ffff25526deb",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF125",
+        "row": 125
+      },
+      {
+        "id": "hw28-49727f877795",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF126",
+        "row": 126
+      },
+      {
+        "id": "hw28-ca668d982639",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF127",
+        "row": 127
+      },
+      {
+        "id": "hw28-fd5b58689711",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF128",
+        "row": 128
+      },
+      {
+        "id": "hw28-f765deaa364d",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF129",
+        "row": 129
+      },
+      {
+        "id": "hw28-b5c4365352f6",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF130",
+        "row": 130
+      },
+      {
+        "id": "hw28-13970072fc0c",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF131",
+        "row": 131
+      },
+      {
+        "id": "hw28-2386de06a26c",
+        "kind": "exercise",
+        "prompt": "Солнце взошло?",
+        "answer": "Уже давно)",
+        "source": "Ответы!CF132",
+        "row": 132
+      }
+    ]
+  },
+  "29": {
+    "prefilled": {
+      "C5": "When do you get up?",
+      "C6": "фф",
+      "C7": "Did you start at 10?",
+      "C18": "Уже давно)",
+      "C21": "He sold his car"
+    },
+    "placeholderBlocks": [
+      {
+        "id": "hw29-44e8af65d065",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI4",
+        "row": 4
+      },
+      {
+        "id": "hw29-7da200dd93be",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI5",
+        "row": 5
+      },
+      {
+        "id": "hw29-42938d1b118a",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI6",
+        "row": 6
+      },
+      {
+        "id": "hw29-dd2da3f9f39c",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI7",
+        "row": 7
+      },
+      {
+        "id": "hw29-c7273f6bbb10",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI8",
+        "row": 8
+      },
+      {
+        "id": "hw29-0c1eb2678c93",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI9",
+        "row": 9
+      },
+      {
+        "id": "hw29-b65f9b5b1c8c",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI10",
+        "row": 10
+      },
+      {
+        "id": "hw29-261ec5a93e9e",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI11",
+        "row": 11
+      },
+      {
+        "id": "hw29-2172f0abd052",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI12",
+        "row": 12
+      },
+      {
+        "id": "hw29-68c0eec0ac52",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI13",
+        "row": 13
+      },
+      {
+        "id": "hw29-d3fcd50fcb33",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI14",
+        "row": 14
+      },
+      {
+        "id": "hw29-fac1ce1057e0",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI15",
+        "row": 15
+      },
+      {
+        "id": "hw29-aba464fe6add",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI16",
+        "row": 16
+      },
+      {
+        "id": "hw29-bc0c3cc46027",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI17",
+        "row": 17
+      },
+      {
+        "id": "hw29-6ccdb6d4cf57",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI18",
+        "row": 18
+      },
+      {
+        "id": "hw29-71bdc92c3784",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI19",
+        "row": 19
+      },
+      {
+        "id": "hw29-584b41731e52",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI20",
+        "row": 20
+      },
+      {
+        "id": "hw29-431f8ad48a08",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI21",
+        "row": 21
+      },
+      {
+        "id": "hw29-5e4ebcc0cc96",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI22",
+        "row": 22
+      },
+      {
+        "id": "hw29-35535bd6800e",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI23",
+        "row": 23
+      },
+      {
+        "id": "hw29-e52e38c17f0b",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI24",
+        "row": 24
+      },
+      {
+        "id": "hw29-1aa39fdef6b0",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI25",
+        "row": 25
+      },
+      {
+        "id": "hw29-283cbf26c10f",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI26",
+        "row": 26
+      },
+      {
+        "id": "hw29-45595652d7f1",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI27",
+        "row": 27
+      },
+      {
+        "id": "hw29-c3c7db1cda28",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI28",
+        "row": 28
+      },
+      {
+        "id": "hw29-7326c454037d",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI29",
+        "row": 29
+      },
+      {
+        "id": "hw29-45e39088fb70",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI30",
+        "row": 30
+      },
+      {
+        "id": "hw29-4619bf376808",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI31",
+        "row": 31
+      },
+      {
+        "id": "hw29-7197d5a4378e",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI32",
+        "row": 32
+      },
+      {
+        "id": "hw29-107906303225",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI33",
+        "row": 33
+      },
+      {
+        "id": "hw29-f97db51f4c09",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI34",
+        "row": 34
+      },
+      {
+        "id": "hw29-77025489f853",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI35",
+        "row": 35
+      },
+      {
+        "id": "hw29-f6d16387cc53",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI36",
+        "row": 36
+      },
+      {
+        "id": "hw29-343cf9c633ab",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI37",
+        "row": 37
+      },
+      {
+        "id": "hw29-95ef9bceb71f",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI38",
+        "row": 38
+      },
+      {
+        "id": "hw29-6645ad52b2c1",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI39",
+        "row": 39
+      },
+      {
+        "id": "hw29-e34d161a0e94",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI40",
+        "row": 40
+      },
+      {
+        "id": "hw29-525c37721e14",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI41",
+        "row": 41
+      },
+      {
+        "id": "hw29-0325c44cc8b8",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI42",
+        "row": 42
+      },
+      {
+        "id": "hw29-ccd915ffb0a5",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI43",
+        "row": 43
+      },
+      {
+        "id": "hw29-deca279b0ef2",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI44",
+        "row": 44
+      },
+      {
+        "id": "hw29-3e2ac44144d0",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI45",
+        "row": 45
+      },
+      {
+        "id": "hw29-27a5c7142a75",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI46",
+        "row": 46
+      },
+      {
+        "id": "hw29-d4a6365de386",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI47",
+        "row": 47
+      },
+      {
+        "id": "hw29-ac572a5498b9",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI48",
+        "row": 48
+      },
+      {
+        "id": "hw29-4d7fec74ec15",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI49",
+        "row": 49
+      },
+      {
+        "id": "hw29-50620ed49590",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI50",
+        "row": 50
+      },
+      {
+        "id": "hw29-26e19d5e1da1",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI51",
+        "row": 51
+      },
+      {
+        "id": "hw29-1f9aaa7da62e",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI52",
+        "row": 52
+      },
+      {
+        "id": "hw29-c4366f45c701",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI53",
+        "row": 53
+      },
+      {
+        "id": "hw29-2b5115f5b9f3",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI54",
+        "row": 54
+      },
+      {
+        "id": "hw29-a7402c04703e",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI55",
+        "row": 55
+      },
+      {
+        "id": "hw29-c0b5f53016ae",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI56",
+        "row": 56
+      },
+      {
+        "id": "hw29-d9e49216c137",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CI57",
+        "row": 57
+      }
+    ]
+  },
+  "30": {
+    "prefilled": {
+      "C5": "When do you get up?",
+      "C6": "фф",
+      "C7": "Did you start at 10?",
+      "C18": "Уже давно)",
+      "C21": "He sold his car"
+    },
+    "placeholderBlocks": [
+      {
+        "id": "hw30-eb3d3f6aa21c",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL4",
+        "row": 4
+      },
+      {
+        "id": "hw30-70fa508c094c",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL5",
+        "row": 5
+      },
+      {
+        "id": "hw30-3f70cf541dc1",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL6",
+        "row": 6
+      },
+      {
+        "id": "hw30-6b3c8707e12c",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL7",
+        "row": 7
+      },
+      {
+        "id": "hw30-4a9e67828f3f",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL8",
+        "row": 8
+      },
+      {
+        "id": "hw30-86f53c45fc99",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL9",
+        "row": 9
+      },
+      {
+        "id": "hw30-69e56eeffe67",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL10",
+        "row": 10
+      },
+      {
+        "id": "hw30-363e88de027f",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL11",
+        "row": 11
+      },
+      {
+        "id": "hw30-f26b40ac2449",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL12",
+        "row": 12
+      },
+      {
+        "id": "hw30-be61ccf0e797",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL13",
+        "row": 13
+      },
+      {
+        "id": "hw30-f30e3e5c3990",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL14",
+        "row": 14
+      },
+      {
+        "id": "hw30-b014723bd2c1",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL15",
+        "row": 15
+      },
+      {
+        "id": "hw30-b551fd210e39",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL16",
+        "row": 16
+      },
+      {
+        "id": "hw30-a06657015179",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL17",
+        "row": 17
+      },
+      {
+        "id": "hw30-89584251f37a",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL18",
+        "row": 18
+      },
+      {
+        "id": "hw30-01e690243df7",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL19",
+        "row": 19
+      },
+      {
+        "id": "hw30-70e129ee4708",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL20",
+        "row": 20
+      },
+      {
+        "id": "hw30-4737458b8f18",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL21",
+        "row": 21
+      },
+      {
+        "id": "hw30-39c111027bc9",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL22",
+        "row": 22
+      },
+      {
+        "id": "hw30-b530f93ee7d1",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL23",
+        "row": 23
+      },
+      {
+        "id": "hw30-7b7c55042d0f",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL24",
+        "row": 24
+      },
+      {
+        "id": "hw30-c07d3ed2926d",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL25",
+        "row": 25
+      },
+      {
+        "id": "hw30-8199d9fd849f",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL26",
+        "row": 26
+      },
+      {
+        "id": "hw30-eb9015119bb0",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL27",
+        "row": 27
+      },
+      {
+        "id": "hw30-e88bc36733d0",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL28",
+        "row": 28
+      },
+      {
+        "id": "hw30-3c2497d7fcf5",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL29",
+        "row": 29
+      },
+      {
+        "id": "hw30-9cdd9d7f29ac",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL30",
+        "row": 30
+      },
+      {
+        "id": "hw30-0eaa9ba8b9ad",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL31",
+        "row": 31
+      },
+      {
+        "id": "hw30-a415a21c70b2",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL32",
+        "row": 32
+      },
+      {
+        "id": "hw30-04f5fed2896e",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL33",
+        "row": 33
+      },
+      {
+        "id": "hw30-384233474212",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL34",
+        "row": 34
+      },
+      {
+        "id": "hw30-5d79b9fc97d9",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL35",
+        "row": 35
+      },
+      {
+        "id": "hw30-e8de1e16c6e3",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL36",
+        "row": 36
+      },
+      {
+        "id": "hw30-00cf2854363c",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL37",
+        "row": 37
+      },
+      {
+        "id": "hw30-4902c42cb0ef",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL38",
+        "row": 38
+      },
+      {
+        "id": "hw30-c2fddb1e627f",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL39",
+        "row": 39
+      },
+      {
+        "id": "hw30-2feae3cc782f",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL40",
+        "row": 40
+      },
+      {
+        "id": "hw30-a4868938aae8",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL41",
+        "row": 41
+      },
+      {
+        "id": "hw30-cd080984e8ab",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL42",
+        "row": 42
+      },
+      {
+        "id": "hw30-ab812e8d87b1",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL43",
+        "row": 43
+      },
+      {
+        "id": "hw30-2d2a83db37cb",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL44",
+        "row": 44
+      },
+      {
+        "id": "hw30-ad8fdce6bbfe",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL45",
+        "row": 45
+      },
+      {
+        "id": "hw30-6675ed8de276",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL46",
+        "row": 46
+      },
+      {
+        "id": "hw30-7d86519cede5",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL47",
+        "row": 47
+      },
+      {
+        "id": "hw30-ba83d041b96a",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL48",
+        "row": 48
+      },
+      {
+        "id": "hw30-69312abeeec0",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL49",
+        "row": 49
+      },
+      {
+        "id": "hw30-5e2efc944310",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL50",
+        "row": 50
+      },
+      {
+        "id": "hw30-7b601660a9bc",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL51",
+        "row": 51
+      },
+      {
+        "id": "hw30-ddb5b8a43a24",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL52",
+        "row": 52
+      },
+      {
+        "id": "hw30-a7393b6b7b0b",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL53",
+        "row": 53
+      },
+      {
+        "id": "hw30-14803354bb50",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL54",
+        "row": 54
+      },
+      {
+        "id": "hw30-b0172023f332",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL55",
+        "row": 55
+      },
+      {
+        "id": "hw30-9cbedf12a1af",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL56",
+        "row": 56
+      },
+      {
+        "id": "hw30-1cfc16479006",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Да",
+        "source": "Ответы!CL57",
+        "row": 57
+      }
+    ]
+  },
+  "31": {
+    "prefilled": {
+      "C5": "When do you get up?",
+      "C6": "фф",
+      "C7": "Did you start at 10?",
+      "C18": "Уже давно)",
+      "C21": "He sold his car"
+    },
+    "placeholderBlocks": [
+      {
+        "id": "hw31-33f2da4dc2d2",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO4",
+        "row": 4
+      },
+      {
+        "id": "hw31-a51a6ed590ca",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO5",
+        "row": 5
+      },
+      {
+        "id": "hw31-5c4fdf81d357",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO6",
+        "row": 6
+      },
+      {
+        "id": "hw31-151c443f86ae",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO7",
+        "row": 7
+      },
+      {
+        "id": "hw31-621370b16623",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO8",
+        "row": 8
+      },
+      {
+        "id": "hw31-c6d6448c37be",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO9",
+        "row": 9
+      },
+      {
+        "id": "hw31-513ee5582b60",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO10",
+        "row": 10
+      },
+      {
+        "id": "hw31-2d5c8a2ffb46",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO11",
+        "row": 11
+      },
+      {
+        "id": "hw31-21f92ced4cca",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO12",
+        "row": 12
+      },
+      {
+        "id": "hw31-d64ff760820f",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO13",
+        "row": 13
+      },
+      {
+        "id": "hw31-09a18941e310",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO14",
+        "row": 14
+      },
+      {
+        "id": "hw31-1ab59c6b1438",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO15",
+        "row": 15
+      },
+      {
+        "id": "hw31-55d1965e9cf1",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO16",
+        "row": 16
+      },
+      {
+        "id": "hw31-a9b23c2b0824",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO17",
+        "row": 17
+      },
+      {
+        "id": "hw31-e96c5022ccb8",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO18",
+        "row": 18
+      },
+      {
+        "id": "hw31-3bd2c867c443",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO19",
+        "row": 19
+      },
+      {
+        "id": "hw31-83a133452af2",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO20",
+        "row": 20
+      },
+      {
+        "id": "hw31-c9ab97b5b959",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO21",
+        "row": 21
+      },
+      {
+        "id": "hw31-d73cafce1df6",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO22",
+        "row": 22
+      },
+      {
+        "id": "hw31-03e4549ff3b9",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO23",
+        "row": 23
+      },
+      {
+        "id": "hw31-b59a5b1817ed",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO24",
+        "row": 24
+      },
+      {
+        "id": "hw31-ba500a7503cd",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO25",
+        "row": 25
+      },
+      {
+        "id": "hw31-1d32d39bb056",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO26",
+        "row": 26
+      },
+      {
+        "id": "hw31-a9f5d151ef1d",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO27",
+        "row": 27
+      },
+      {
+        "id": "hw31-2295a26525a6",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO28",
+        "row": 28
+      },
+      {
+        "id": "hw31-2d2118e5b462",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO29",
+        "row": 29
+      },
+      {
+        "id": "hw31-b1306fff7900",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO30",
+        "row": 30
+      },
+      {
+        "id": "hw31-eaeea09f810f",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO31",
+        "row": 31
+      },
+      {
+        "id": "hw31-b8602d3fa9f8",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO32",
+        "row": 32
+      },
+      {
+        "id": "hw31-46e8bf6b4e80",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO33",
+        "row": 33
+      },
+      {
+        "id": "hw31-098bbf649635",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO34",
+        "row": 34
+      },
+      {
+        "id": "hw31-6c029b12402d",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO35",
+        "row": 35
+      },
+      {
+        "id": "hw31-49cc802efcf7",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO36",
+        "row": 36
+      },
+      {
+        "id": "hw31-0dcb7bc0b8fb",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO37",
+        "row": 37
+      },
+      {
+        "id": "hw31-0f339281226b",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO38",
+        "row": 38
+      },
+      {
+        "id": "hw31-cf0472b8038f",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO39",
+        "row": 39
+      },
+      {
+        "id": "hw31-9de860f45fbc",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO40",
+        "row": 40
+      },
+      {
+        "id": "hw31-b06c0ec59b0e",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO41",
+        "row": 41
+      },
+      {
+        "id": "hw31-97c4100e4ef4",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO42",
+        "row": 42
+      },
+      {
+        "id": "hw31-97e6c4448c06",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO43",
+        "row": 43
+      },
+      {
+        "id": "hw31-49644253f0cd",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO44",
+        "row": 44
+      },
+      {
+        "id": "hw31-c26ff7ae0f99",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO45",
+        "row": 45
+      },
+      {
+        "id": "hw31-99f5a6f5087e",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO46",
+        "row": 46
+      },
+      {
+        "id": "hw31-c254c0a62785",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO47",
+        "row": 47
+      },
+      {
+        "id": "hw31-1c54d3fa1448",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO48",
+        "row": 48
+      },
+      {
+        "id": "hw31-d8580b603370",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO49",
+        "row": 49
+      },
+      {
+        "id": "hw31-bc31f96faec9",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO50",
+        "row": 50
+      },
+      {
+        "id": "hw31-642945f578f3",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO51",
+        "row": 51
+      },
+      {
+        "id": "hw31-b8b995be35c5",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO52",
+        "row": 52
+      },
+      {
+        "id": "hw31-fdeae1590f83",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO53",
+        "row": 53
+      },
+      {
+        "id": "hw31-78f3706be5d3",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO54",
+        "row": 54
+      },
+      {
+        "id": "hw31-f7eb60dc7ccf",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO55",
+        "row": 55
+      },
+      {
+        "id": "hw31-aa73b0120f84",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO56",
+        "row": 56
+      },
+      {
+        "id": "hw31-6d00ce961352",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO57",
+        "row": 57
+      },
+      {
+        "id": "hw31-4a6b964fe80b",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO58",
+        "row": 58
+      },
+      {
+        "id": "hw31-7d055106a37b",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO59",
+        "row": 59
+      },
+      {
+        "id": "hw31-fb86cfff5cf9",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO60",
+        "row": 60
+      },
+      {
+        "id": "hw31-a81810805585",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO61",
+        "row": 61
+      },
+      {
+        "id": "hw31-313077111bbd",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO62",
+        "row": 62
+      },
+      {
+        "id": "hw31-c9787f5bbfc9",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO63",
+        "row": 63
+      },
+      {
+        "id": "hw31-50e6efe632e4",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO64",
+        "row": 64
+      },
+      {
+        "id": "hw31-389044240853",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO65",
+        "row": 65
+      },
+      {
+        "id": "hw31-de63ffb5f22a",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO66",
+        "row": 66
+      },
+      {
+        "id": "hw31-91ce17de714c",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO67",
+        "row": 67
+      },
+      {
+        "id": "hw31-602acc80d743",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO68",
+        "row": 68
+      },
+      {
+        "id": "hw31-e0c8272bb8b0",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO69",
+        "row": 69
+      },
+      {
+        "id": "hw31-6a0bd0965f6e",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO70",
+        "row": 70
+      },
+      {
+        "id": "hw31-4e90c534c516",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO71",
+        "row": 71
+      },
+      {
+        "id": "hw31-18239ec08884",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO72",
+        "row": 72
+      },
+      {
+        "id": "hw31-db6574b2b2f4",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO73",
+        "row": 73
+      },
+      {
+        "id": "hw31-2cc613c74c5b",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO74",
+        "row": 74
+      },
+      {
+        "id": "hw31-a1079b8931cd",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO75",
+        "row": 75
+      },
+      {
+        "id": "hw31-e237084688b6",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO76",
+        "row": 76
+      },
+      {
+        "id": "hw31-42749aee5719",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO77",
+        "row": 77
+      },
+      {
+        "id": "hw31-97af55c986ad",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO78",
+        "row": 78
+      },
+      {
+        "id": "hw31-ab3e3a42ebd2",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO79",
+        "row": 79
+      },
+      {
+        "id": "hw31-5d9b731d536f",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO80",
+        "row": 80
+      },
+      {
+        "id": "hw31-b6fa8c07003b",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO81",
+        "row": 81
+      },
+      {
+        "id": "hw31-96157af2c26a",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO82",
+        "row": 82
+      },
+      {
+        "id": "hw31-ea19c6ff9695",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO83",
+        "row": 83
+      },
+      {
+        "id": "hw31-2860fdb05745",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO84",
+        "row": 84
+      },
+      {
+        "id": "hw31-1b79a3d5ce5c",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO85",
+        "row": 85
+      },
+      {
+        "id": "hw31-f19712424d7c",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO86",
+        "row": 86
+      },
+      {
+        "id": "hw31-662954b019c7",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO87",
+        "row": 87
+      },
+      {
+        "id": "hw31-f0efc4a2806f",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO88",
+        "row": 88
+      },
+      {
+        "id": "hw31-dba5e2bf7390",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO89",
+        "row": 89
+      },
+      {
+        "id": "hw31-489ffef069ab",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO90",
+        "row": 90
+      },
+      {
+        "id": "hw31-602f5a25d8c4",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO91",
+        "row": 91
+      },
+      {
+        "id": "hw31-0304ccdb6d9c",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO92",
+        "row": 92
+      },
+      {
+        "id": "hw31-644b47893791",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO93",
+        "row": 93
+      },
+      {
+        "id": "hw31-0727fc4b4b7e",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO94",
+        "row": 94
+      },
+      {
+        "id": "hw31-89423c858e85",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO95",
+        "row": 95
+      },
+      {
+        "id": "hw31-bb6f85b34019",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO96",
+        "row": 96
+      },
+      {
+        "id": "hw31-6784664dfd98",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO97",
+        "row": 97
+      },
+      {
+        "id": "hw31-c98eba87831f",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO98",
+        "row": 98
+      },
+      {
+        "id": "hw31-cce9043eeec9",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO99",
+        "row": 99
+      },
+      {
+        "id": "hw31-fa80be38bd22",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO100",
+        "row": 100
+      },
+      {
+        "id": "hw31-dc4bc0a72bb1",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO101",
+        "row": 101
+      },
+      {
+        "id": "hw31-6d70a83624c6",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO102",
+        "row": 102
+      },
+      {
+        "id": "hw31-97d116ad50c7",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO103",
+        "row": 103
+      },
+      {
+        "id": "hw31-efdcc6ce6865",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO104",
+        "row": 104
+      },
+      {
+        "id": "hw31-c3c66d2c4978",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO105",
+        "row": 105
+      },
+      {
+        "id": "hw31-7f40c9aa01ec",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO106",
+        "row": 106
+      },
+      {
+        "id": "hw31-d68dc5557dd9",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO107",
+        "row": 107
+      },
+      {
+        "id": "hw31-a5968fb57f2c",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO108",
+        "row": 108
+      },
+      {
+        "id": "hw31-ebb7e0eba6a0",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO109",
+        "row": 109
+      },
+      {
+        "id": "hw31-0197eeb7179e",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO110",
+        "row": 110
+      },
+      {
+        "id": "hw31-b9b8bfaec748",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO111",
+        "row": 111
+      },
+      {
+        "id": "hw31-f05c778f0c80",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO112",
+        "row": 112
+      },
+      {
+        "id": "hw31-f9af8bb31005",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO113",
+        "row": 113
+      },
+      {
+        "id": "hw31-9ff63196e297",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO114",
+        "row": 114
+      },
+      {
+        "id": "hw31-3ce359813208",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO115",
+        "row": 115
+      },
+      {
+        "id": "hw31-09e1c53f7f20",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO116",
+        "row": 116
+      },
+      {
+        "id": "hw31-134e09cdff88",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO117",
+        "row": 117
+      },
+      {
+        "id": "hw31-cfd7b77a2bd4",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO118",
+        "row": 118
+      },
+      {
+        "id": "hw31-abe6073def9a",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO119",
+        "row": 119
+      },
+      {
+        "id": "hw31-51a186997e49",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO120",
+        "row": 120
+      },
+      {
+        "id": "hw31-19eb7173f6e9",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO121",
+        "row": 121
+      },
+      {
+        "id": "hw31-31615b374f7a",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO122",
+        "row": 122
+      },
+      {
+        "id": "hw31-8c8630fe454f",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO123",
+        "row": 123
+      },
+      {
+        "id": "hw31-272d6dec346c",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO124",
+        "row": 124
+      },
+      {
+        "id": "hw31-74ddb66a9f1b",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO125",
+        "row": 125
+      },
+      {
+        "id": "hw31-1ba83c8bb880",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO126",
+        "row": 126
+      },
+      {
+        "id": "hw31-cae768db714c",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO127",
+        "row": 127
+      },
+      {
+        "id": "hw31-4183c14b77f8",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO128",
+        "row": 128
+      },
+      {
+        "id": "hw31-391934ceac02",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO129",
+        "row": 129
+      },
+      {
+        "id": "hw31-2cccb9bf664a",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO130",
+        "row": 130
+      },
+      {
+        "id": "hw31-7169ace37d92",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO131",
+        "row": 131
+      },
+      {
+        "id": "hw31-92521ebd87d5",
+        "kind": "exercise",
+        "prompt": "Солнце светит?",
+        "answer": "Просто",
+        "source": "Ответы!CO132",
+        "row": 132
+      }
+    ]
+  }
+}

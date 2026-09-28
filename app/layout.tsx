@@ -1,29 +1,21 @@
-import { Geist, Geist_Mono } from "next/font/google"
-
+import type { Metadata } from "next"
 import "./globals.css"
-import { ThemeProvider } from "@/components/theme-provider"
-import { cn } from "@/lib/utils";
-
-const geist = Geist({subsets:['latin'],variable:'--font-sans'})
-
-const fontMono = Geist_Mono({
-  subsets: ["latin"],
-  variable: "--font-mono",
-})
-
+import { ProgressProvider } from "@/components/course/progress-provider"
+import { Shell } from "@/components/course/shell"
+export const metadata: Metadata = {
+  title: { default: "English — моя учебная тетрадь", template: "%s · English" },
+  description:
+    "Домашние задания, теория и ваш прогресс в изучении английского.",
+}
 export default function RootLayout({
   children,
-}: Readonly<{
-  children: React.ReactNode
-}>) {
+}: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html
-      lang="en"
-      suppressHydrationWarning
-      className={cn("antialiased", fontMono.variable, "font-sans", geist.variable)}
-    >
+    <html lang="ru">
       <body>
-        <ThemeProvider>{children}</ThemeProvider>
+        <ProgressProvider>
+          <Shell>{children}</Shell>
+        </ProgressProvider>
       </body>
     </html>
   )
